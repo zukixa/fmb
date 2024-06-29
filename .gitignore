@@ -1,4 +1,4 @@
-fmb/dist/
-fmb/build/
-fmb/fmb.egg-info
+dist/
+build/
+fmb.egg-info
 test
