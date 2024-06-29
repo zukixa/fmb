@@ -2,6 +2,28 @@
 
 < ... >
 
+## Installation
+
+```
+python3.10 -m pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple fmb==0.0.4
+```
+
+## Usage
+
+Two Options:
+
+### In the CLI:
+
+```cli
+fmb
+```
+
+### In the Code:
+
+```
+# look below !
+```
+
 ## FairMob Class Methods
 
 The FairMob class comprises several methods to assist in fairness analysis:
